@@ -2,7 +2,7 @@
 
 The information contained here in pertains to the Stone Island residences located within Yacht Club area of the Cayman Islands in West Bay. 
 
-## Ownership (average expenses)
+## Ownership costs (average expenses)
 
 | Type  | Amount         | 
 | ----- |:-------------- |
@@ -38,3 +38,4 @@ Estimated yearly burn: $86,000 / year
 ### Units
 * Dimmer and LED lighting mismatch causes flickering
 * Due to open stair case units by default are not small pet friendly
+* Shower thresholds flush with floor so water seeps out
