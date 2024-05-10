@@ -34,6 +34,7 @@ Estimated yearly burn: $86,000 / year
 
 ### Pros
 
+* Build quality and the finishes are top end
 * Beautiful canal views
 * Friendly community of amazing people
 * Well maintained and managed property
