@@ -27,7 +27,7 @@ Estimated yearly burn: $86,000 / year
 | ------------------- |:------------- | :----- |
 | Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
 
-## Known owner acknoledged issues
+## Known owner acknowledged issues
 
 * Limited parking (to be larger problem when Phase II completed)
 * Lousy water preassure in units
