@@ -6,7 +6,7 @@ Stone Island is a private residence community located within Yacht Club area of 
 
 **Website:** [https://stoneislandcayman.com](https://stoneislandcayman.com/)
 
-## Average costs
+## Economics
 
 | Type  | Amount         | 
 | :----- |:-------------- |
@@ -18,15 +18,16 @@ Stone Island is a private residence community located within Yacht Club area of 
 
 Estimated yearly burn: $86,000 / year
 
-## Lighting
+## Products used & replacements
+
+### Lighting
 
 | Type                    | Part #         | Spec  |
 | :----------------------- |:-------------- | :----- |
 | Standard ceiling lights | CDL6-8L30KA WH | [Resource](https://github.com/sagewrk/stone-island/blob/main/pdf/standard-ceiling-lights.pdf) |
 | Gimbal ceiling lights   | DLED4AR11YY    | [Resource](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf) |
 
-
-## Paint
+### Paint
 
 | Type                | Part #           | Spec  |
 | :------------------- |:------------- | :----- |
@@ -35,8 +36,7 @@ Estimated yearly burn: $86,000 / year
 | Eggshell | BM decorator white CC-20 (Eggshell) ||
 | Trim & baseboards | BM decorator white CC-20 (Pearl) ||
 
-
-## Replacement parts
+### Replacement parts
 
 | Type | Part | Subsitute or OEM | Amazon Link |
 | :--- |:---- | :----------------| :-----------|
