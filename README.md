@@ -48,15 +48,23 @@ Estimated yearly burn: $86,000 / year
 
 ### Overheating oven
 
-**Likely cause** Ventilation for oven not working efficiently causing sensor to trip automatic shutoff to protect the oven components from overheating.
+**Likely cause** Ventilation for oven not working efficiently causing sensor to trip automatic shutoff protecting oven components from overheating.
 
 **Solution:** When the appliance company (Not VIP Appliances who are great BTW) came to access the issue they advised us that we should probably avoid cooking items that produce steam. Redicoulous right! The actual solution was to replace the heat sensor responsible for triggering the ventilation in the unit.
+
+## General maintenance recommendations
+
+1. Garage door
+2. Vaccume coil on all fridges
+3. Periodically run diluted viniger solution though dishwasher and washing machine
+4. Flush washing machine drains
+5. Pull out dryer and clean duct
 
 ## Pros and Cons
 
 ### Pros
 
-* Build quality and the finishes are top end
+* Build quality and the finishes
 * Beautiful canal views
 * Friendly community of amazing people
 * Well maintained and managed property
