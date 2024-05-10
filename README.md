@@ -55,4 +55,4 @@ Estimated yearly burn: $86,000 / year
 * Gap in staircase riser makes units unfriendly to small pets
 * Shower thresholds flush with floor so water seeps out
 * Water preassure in the community is between 38 - 45 PSI (meaning weak showers and poor preassure)
-* Air conditioning units known to short cycle
+* Air conditioning within units known to short cycle
