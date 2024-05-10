@@ -29,9 +29,11 @@ Estimated yearly burn: $86,000 / year
 
 ## Known owner acknowledged issues
 
-* Limited parking (to be larger problem when Phase II completed)
-* Lousy water preassure in units
+### Developement wide
+* Limited parking (larger problem when Phase II completed)
 * Phase II has not commenced construction
-* Dimmer and LED lighting mismatch causes flickering
 * Area wide (Yatcht Club) known electrical issues
+
+### Units
+* Dimmer and LED lighting mismatch causes flickering
 * Due to open stair case units by default are not small pet friendly
