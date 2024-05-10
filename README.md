@@ -2,6 +2,18 @@
 
 This repository is used to maintain information pertaining to the Stone Island residences located in the Cayman Islands.
 
+## Ownership (average expenses)
+
+| Type  | Amount         | 
+| ----- |:-------------- |
+| Electricity | CI$1,000 / month |
+| Water | CI$150 / month |
+| Strata | US$8,500 / quarter |
+| Strata mandetory insurance | US$34,000 / year |
+| Content/liability insurance | US$1,500 / year |
+
+Estimated yearly burn: $86,000 / year
+
 ## Lighting
 
 | Type                    | Part #         | Spec  |
