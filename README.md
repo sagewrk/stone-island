@@ -47,13 +47,12 @@ Estimated yearly burn: $86,000 / year
 
 * Phase II construction has not begun as yet
 * Limited parking (larger problem when Phase II completed)
-* High operating overhead
+* Operational overhead of the Stone Island community is substantial
 * Buildings 6, 7, 8 & 9 + buildings in second phase subject to loud evenings of noise from Morgans and Baccaro
 * Sound proofing between unit could be better (ie. music, TV, people on stairs can be heard in adjacent units)
-* Area wide (Yatcht Club) known electrical issues
-* Enforcement on some by-laws but not others
+* Management appear to choose which by-laws they enforce
 * Dimmer and LED lighting mismatch causes flickering
 * Gap in staircase riser makes units unfriendly to small pets
 * Shower thresholds flush with floor so water seeps out
+* Water preassure in the community is between 38 - 45 PSI (meaning weak showers and poor preassure)
 * Air conditioning units known to short cycle
-* Plunge pools seem like a waste of space and are underutilised
