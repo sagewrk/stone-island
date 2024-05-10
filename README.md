@@ -27,32 +27,29 @@ Estimated yearly burn: $86,000 / year
 | ------------------- |:------------- | :----- |
 | Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
 
-## Known issues
-
-### Developement wide
-* Phase II construction has not begun as yet
-* Limited parking (larger problem when Phase II completed)
-* Area wide (Yatcht Club) known electrical issues
-* Enforcement on some by-laws but not others
-
-### Units
-* Dimmer and LED lighting mismatch causes flickering
-* Due to open stair case units by default are not small pet friendly
-* Shower thresholds flush with floor so water seeps out
-* Air conditioning units known to short cycle
-
 ## Pros and Cons
 
 ### Pros
 
+* Beautiful canal views
 * Friendly community of amazing people
 * Well maintained and managed property
 * Lush and well maintained lanscaping and gardens
-* Terrific ameneties
+* Convenient location within Yacht club in close proximity to great outside ameneties
+* Terrific on premesis ameneties including a large community pool, theatre and gym
 * Safe and secure
 
 ### Cons
 
+* Phase II construction has not begun as yet
+* Limited parking (larger problem when Phase II completed)
 * High operating overhead
 * Buildings 6, 7, 8 & 9 + buildings in second phase subject to loud evenings of noise from Morgans and Baccaro
 * Sound proofing between unit could be better (ie. music, TV, people on stairs can be heard in adjacent units)
+* Area wide (Yatcht Club) known electrical issues
+* Enforcement on some by-laws but not others
+* Dimmer and LED lighting mismatch causes flickering
+* Gap in staircase riser makes units unfriendly to small pets
+* Shower thresholds flush with floor so water seeps out
+* Air conditioning units known to short cycle
+* Plunge pools seem like a waste of space and are underutilised
