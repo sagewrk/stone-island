@@ -28,8 +28,10 @@ Estimated yearly burn: $86,000 / year
 
 | Type                | Part #           | Spec  |
 | :------------------- |:------------- | :----- |
-| Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
+| Garage floor paint | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
 | Ceilings | BM decorator white CC-20 (Flat) ||
+| Eggshell | BM decorator white CC-20 (Eggshell) ||
+| Trim & baseboards | BM decorator white CC-20 (Pearl) ||
 
 ## Pros and Cons
 
@@ -58,4 +60,12 @@ Estimated yearly burn: $86,000 / year
 * Water preassure in the community is between 38 - 45 PSI (meaning weak showers and poor preassure)
 * Air conditioning within units known to short cycle
 
-## Recommended service providers
+## Plugs for favourite service providers
+
+| Company | Offering | Phone | E-Mail | Website |
+| :------ |:-------- | :---- | :----- | :------ |
+| VIP Appliances | Service & maintenance | 345-328-1610 | [E-Mail](mailto:vipservicescayman@gmail.com) | [Website](https://vipservicesky.com/)
+| First Impressions | Painting | 345-917-7499 | [E-Mail](mailto:firstimpressions@candw.ky) | [Website](https://www.firstimpressions.ky/]
+| Quality Electric | Electrical | 345-949-2708 | [E-Mail](mailto:qualityelectric@candw.ky) ||
+
+Shout out to my guys Junior at First Impression and Elsmer from Quality Electric who have helped me out with several projects around the island over the years.
