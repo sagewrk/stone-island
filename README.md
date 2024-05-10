@@ -48,9 +48,15 @@ Estimated yearly burn: $86,000 / year
 
 ### Overheating oven
 
-**Likely cause** Ventilation for oven not working efficiently causing sensor to trip automatic shutoff protecting oven components from overheating.
+**Issue/Cause** Ventilation for oven not working efficiently causing sensor to trip automatic shutoff protecting oven components from overheating.
 
 **Solution:** When the appliance company (Not VIP Appliances who are great BTW) came to access the issue they advised us that we should probably avoid cooking items that produce steam. Redicoulous right! The actual solution was to replace the heat sensor responsible for triggering the ventilation in the unit.
+
+### Shower seeping out from shower
+
+**Issue/Cause** The tile inside and outside the shower are at the same level without any slope. Water seeps out the shower as a result requiring cleanup each time a shower is run.
+
+**Solution** Build small dams using either silicone or plexiglass and place them in the areas where the water is seeping out. These should be between 1.5 and 2" in lenght.
 
 ## General maintenance recommendations
 
