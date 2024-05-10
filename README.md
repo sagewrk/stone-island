@@ -2,7 +2,8 @@
 
 Stone Island is a private residence community located within Yacht Club area of the Cayman Islands in West Bay. Conveniently located Stone Island is in close proximity to Morgans & Baccaro, Seven Mile Beach, The Kimpton/Seafire and other ameneties and offerings in the area. This information is provides a summary of notes I keep for myself and may benefit others.
 
-**Address:** 548 Yacht Drive, West Bay [(Google maps pin)](https://maps.app.goo.gl/ncjPeBmQnr7DBB1Z7) after the entrance to Vista Del Mar \
+**Address:** 548 Yacht Drive, West Bay [(Google maps pin)](https://maps.app.goo.gl/ncjPeBmQnr7DBB1Z7) after the entrance to Vista Del Mar 
+
 **Website:** [https://stoneislandcayman.com](https://stoneislandcayman.com/)
 
 ## Average costs
