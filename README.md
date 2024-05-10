@@ -30,8 +30,8 @@ Estimated yearly burn: $86,000 / year
 ## Known issues
 
 ### Developement wide
+* Phase II construction has not begun as yet
 * Limited parking (larger problem when Phase II completed)
-* Phase II has not commenced construction
 * Area wide (Yatcht Club) known electrical issues
 * Enforcement on some by-laws but not others
 
@@ -39,3 +39,20 @@ Estimated yearly burn: $86,000 / year
 * Dimmer and LED lighting mismatch causes flickering
 * Due to open stair case units by default are not small pet friendly
 * Shower thresholds flush with floor so water seeps out
+* Air conditioning units known to short cycle
+
+## Pros and Cons
+
+### Pros
+
+* Friendly community of amazing people
+* Well maintained and managed property
+* Lush and well maintained lanscaping and gardens
+* Terrific ameneties
+* Safe and secure
+
+### Cons
+
+* High operating overhead
+* Buildings 6, 7, 8 & 9 + buildings in second phase subject to loud evenings of noise from Morgans and Baccaro
+* Sound proofing between unit could be better (ie. music, TV, people on stairs can be heard in adjacent units)
