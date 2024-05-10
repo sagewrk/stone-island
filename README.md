@@ -1,8 +1,8 @@
 # Stone Island (Cayman) Repository
 
-## Specifications
+## Lighting
 
-Specification PDFs or links to resources online
-
-* [Gimbal ceiling lights](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf)
-* [Standard ceiling lights](https://github.com/sagewrk/stone-island/blob/main/pdf/standard-ceiling-lights.pdf)
+| Type                    | Part #           | Spec  |
+| ----------------------- |:---------------- | -----:|
+| Standard ceiling lights | CDL6-8L30KA WH   | [File](https://github.com/sagewrk/stone-island/blob/main/pdf/standard-ceiling-lights.pdf) |
+| Ceiling lights          | DLED4AR11YY      | [File](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf) |
