@@ -1,1 +1,1 @@
-# stone-island
+# Stone Island (Cayman) Repository
