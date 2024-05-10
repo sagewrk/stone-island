@@ -1,4 +1,4 @@
-# Stone Island Cayman Islands Repository
+# The Residences of Stone Island (Cayman Islands)
 
 The information contained here in pertains to the Stone Island residences located within Yacht Club area of the Cayman Islands in West Bay. 
 
