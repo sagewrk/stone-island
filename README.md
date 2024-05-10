@@ -8,7 +8,7 @@ Stone Island is a private residence community located within Yacht Club area of 
 ## Ownership costs (average expenses)
 
 | Type  | Amount         | 
-| ----- |:-------------- |
+| :----- |:-------------- |
 | Electricity | CI$1,000 / month |
 | Water | CI$150 / month |
 | Strata | US$8,500 / quarter |
@@ -20,14 +20,14 @@ Estimated yearly burn: $86,000 / year
 ## Lighting
 
 | Type                    | Part #         | Spec  |
-| ----------------------- |:-------------- | :----- |
+| :----------------------- |:-------------- | :----- |
 | Standard ceiling lights | CDL6-8L30KA WH | [Resource](https://github.com/sagewrk/stone-island/blob/main/pdf/standard-ceiling-lights.pdf) |
 | Gimbal ceiling lights   | DLED4AR11YY    | [Resource](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf) |
 
 ## Paint
 
 | Type                | Part #           | Spec  |
-| ------------------- |:------------- | :----- |
+| :------------------- |:------------- | :----- |
 | Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
 
 ## Pros and Cons
