@@ -42,10 +42,9 @@ Estimated yearly burn: $86,000 / year
 
 ## Known problems and possible solutions
 
-**Overheating oven** \\
-*Likely cause* Ventilation for oven not working efficiently causing sensor to trip automatic shutoff to protect the oven components from overheating. \\
+> **Overheating oven** \
+*Likely cause* Ventilation for oven not working efficiently causing sensor to trip automatic shutoff to protect the oven components from overheating. \
 *Solution:* When the appliance company (Not VIP Appliances who are great BTW) came to access the issue they advised us that we should probably avoid cooking items that produce steam. Redicoulous right! The actual solution was to replace the heat sensor responsible for triggering the ventilation in the unit.
-
 
 ## Pros and Cons
 
