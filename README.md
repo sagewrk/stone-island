@@ -1,4 +1,6 @@
-# Stone Island (Cayman) Repository
+# Stone Island in the Cayman Islands
+
+This repository is used to maintain information pertaining to the Stone Island residences located in the Cayman Islands.
 
 ## Lighting
 
