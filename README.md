@@ -58,6 +58,12 @@ Estimated yearly burn: $86,000 / year
 
 **Solution** Build small dams using either silicone or plexiglass and place them in the areas where the water is seeping out. These should be between 1.5 and 2" in lenght.
 
+### Main Sub-Zero refrigerator handle breaks
+
+**Issue/Cause** The fridge door is heavy and under suction preassure after the door is closed. Force is exterted on two weak areas on the design of this handle. Over time these break.
+
+**Solution** The solution is replacing the handle when it breaks which. This is a pain as the door panel needs to come off in order to gain access to the screws holding the handle in place. It consistancy is not an issue with the other handles in your kitchen you can likely find a much better/stronger handle.
+
 ## General maintenance recommendations
 
 1. Garage door
