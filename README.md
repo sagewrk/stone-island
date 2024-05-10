@@ -5,7 +5,7 @@ Stone Island is a private residence community located within Yacht Club area of 
 **Address:** 548 Yacht Drive, West Bay [(Google maps pin)](https://maps.app.goo.gl/ncjPeBmQnr7DBB1Z7) after the entrance to Vista Del Mar. \
 **Website:** [https://stoneislandcayman.com](https://stoneislandcayman.com/)
 
-## Ownership costs (average expenses)
+## Average costs
 
 | Type  | Amount         | 
 | :----- |:-------------- |
@@ -29,6 +29,7 @@ Estimated yearly burn: $86,000 / year
 | Type                | Part #           | Spec  |
 | :------------------- |:------------- | :----- |
 | Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
+| Ceilings | BM decorator white CC-20 (Flat) ||
 
 ## Pros and Cons
 
@@ -56,3 +57,5 @@ Estimated yearly burn: $86,000 / year
 * Shower thresholds flush with floor so water seeps out
 * Water preassure in the community is between 38 - 45 PSI (meaning weak showers and poor preassure)
 * Air conditioning within units known to short cycle
+
+## Recommended service providers
