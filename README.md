@@ -1,6 +1,6 @@
 # Stone Island in the Cayman Islands
 
-This repository is used to maintain information pertaining to the Stone Island residences located in the Cayman Islands.
+This repository is used to maintain information pertaining to the Stone Island residences located within Yacht Club area of the Cayman Islands in West Bay.
 
 ## Ownership (average expenses)
 
@@ -26,3 +26,12 @@ Estimated yearly burn: $86,000 / year
 | Type                | Part #           | Spec  |
 | ------------------- |:------------- | :----- |
 | Garage floor paint  | B65A00060-20  | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
+
+## Known owner acknoledged issues
+
+* Limited parking (to be larger problem when Phase II completed)
+* Lousy water preassure in units
+* Phase II has not commenced construction
+* Dimmer and LED lighting mismatch causes flickering
+* Area wide (Yatcht Club) known electrical issues
+* Due to open stair case units by default are not small pet friendly
