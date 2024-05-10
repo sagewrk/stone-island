@@ -40,6 +40,11 @@ Estimated yearly burn: $86,000 / year
 |Sub-Zero refrigerator | Water filter (4204490) & air purifier (7007067) | Substitute | [Buy on Amazon](https://www.amazon.com/dp/B098NKZQL5?ref=ppx_yo2ov_dt_b_product_details&th=1)
 |Cabinet door pulls | Richelieu hardware (BP520384195) | OEM | [Buy on Amazon](https://www.amazon.com/Richelieu-Hardware-BP520384195-Contemporary-Stainless/dp/B01ICT6H9I/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=ev4lq&content-id=amzn1.sym.8b590b55-908d-4829-9f90-4c8752768e8b%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=8b590b55-908d-4829-9f90-4c8752768e8b&pf_rd_r=FWFKCEF4DFZ22719BGCM&pd_rd_wg=xNZW9&pd_rd_r=f2d1d1ec-b5ba-42e8-b0c1-c71999afcca9&pd_rd_i=B01ICT6H9I&th=1)
 
+## Known problems and possible solutions
+
+1. Oven overheats - *Solution:* When the appliance company (Not VIP Appliances who are great BTW) came to access the issue they advised us that we should probably avoid cooking items that produce steam. Redicoulous right! The actual solution was to replace the heat sensor responsible for triggering the ventilation in the unit.
+
+
 ## Pros and Cons
 
 ### Pros
