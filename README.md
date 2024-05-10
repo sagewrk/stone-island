@@ -37,7 +37,7 @@ Estimated yearly burn: $86,000 / year
 
 | Type | Part | Subsitute or OEM | Amazon Link |
 | :--- |:---- | :----------------| :-----------|
-|Sub-Zero Frige | Water Filter & Air Purification Combo | Substitute | [Buy on Amazon](https://www.amazon.com/dp/B098NKZQL5?ref=ppx_yo2ov_dt_b_product_details&th=1)
+|Sub-Zero Frige | Water Filter (4204490) & Air Purifier (7007067) | Substitute | [Buy on Amazon](https://www.amazon.com/dp/B098NKZQL5?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
 ## Pros and Cons
 
