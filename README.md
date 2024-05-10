@@ -2,4 +2,6 @@
 
 ## Specifications
 
-([Ceiling Lights](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf)
+Specification PDFs or links to resources online
+
+* [Ceiling Lights](https://github.com/sagewrk/stone-island/blob/main/pdf/ceiling-lights.pdf)
