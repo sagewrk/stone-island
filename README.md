@@ -64,8 +64,8 @@ Estimated yearly burn: $86,000 / year
 
 | Company | Offering | Phone | E-Mail | Website |
 | :------ |:-------- | :---- | :----- | :------ |
-| VIP Appliances | Service & maintenance | 345-328-1610 | [E-Mail](mailto:vipservicescayman@gmail.com) | [Website](https://vipservicesky.com/)
-| First Impressions | Painting | 345-917-7499 | [E-Mail](mailto:firstimpressions@candw.ky) | [Website](https://www.firstimpressions.ky/]
+| VIP Appliances | Service & maintenance | 345-328-1610 | [E-Mail](mailto:vipservicescayman@gmail.com) | [Website](https://vipservicesky.com/) |
+| First Impressions | Painting | 345-917-7499 | [E-Mail](mailto:firstimpressions@candw.ky) | [Website](https://www.firstimpressions.ky/) |
 | Quality Electric | Electrical | 345-949-2708 | [E-Mail](mailto:qualityelectric@candw.ky) ||
 
 Shout out to my guys Junior at First Impression and Elsmer from Quality Electric who have helped me out with several projects around the island over the years.
