@@ -33,6 +33,7 @@ Estimated yearly burn: $86,000 / year
 * Limited parking (larger problem when Phase II completed)
 * Phase II has not commenced construction
 * Area wide (Yatcht Club) known electrical issues
+* Enforcement on some by-laws but not others
 
 ### Units
 * Dimmer and LED lighting mismatch causes flickering
