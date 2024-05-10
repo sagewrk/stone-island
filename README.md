@@ -68,4 +68,4 @@ Estimated yearly burn: $86,000 / year
 | First Impressions | Painting | 345-917-7499 | [E-Mail](mailto:firstimpressions@candw.ky) | [Website](https://www.firstimpressions.ky/) |
 | Quality Electric | Electrical | 345-949-2708 | [E-Mail](mailto:qualityelectric@candw.ky) ||
 
-Shout out to my guys Junior at First Impression and Elsmer from Quality Electric who have helped me out with several projects around the island over the years.
+Shout out to my guys Junior at First Impression and Elsmer from Quality Electric who've helped me out with numerous projects over the years.
