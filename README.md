@@ -11,7 +11,7 @@ Stone Island is a private residence community located within Yacht Club area of 
 | :----- |:-------------- |
 | Electricity | CI$1,000 / month |
 | Water | CI$150 / month |
-| Strata | US$8,500 / quarter |
+| Strata (HOA) | US$8,500 / quarter |
 | Strata mandetory insurance | US$34,000 / year |
 | Content/liability insurance | US$1,500 / year |
 
