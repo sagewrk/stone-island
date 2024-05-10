@@ -11,4 +11,4 @@
 
 | Type                    | Part #           | Spec  |
 | ----------------------- |:---------------- | :----- |
-| Garage floor paint      | B65A00060-20     | [Resource]([https://github.com/sagewrk/stone-island/blob/main/pdf/standard-ceiling-lights.pdf](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424)) |
+| Garage floor paint      | B65A00060-20     | [Resource](https://www.sherwin-williams.com/architects-specifiers-designers/products/armorseal-rexthane-i?itemCatentryId=18424) |
