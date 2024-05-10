@@ -33,6 +33,12 @@ Estimated yearly burn: $86,000 / year
 | Eggshell | BM decorator white CC-20 (Eggshell) ||
 | Trim & baseboards | BM decorator white CC-20 (Pearl) ||
 
+## Appliance replacement parts
+
+| Type | Part | Subsitute or OEM | Amazon Link |
+| :--- |:---- | :----------------| :-----------|
+|Sub-Zero Frige | Water Filter & Air Purification Combo | Substitute | [Buy on Amazon](https://www.amazon.com/dp/B098NKZQL5?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
 ## Pros and Cons
 
 ### Pros
